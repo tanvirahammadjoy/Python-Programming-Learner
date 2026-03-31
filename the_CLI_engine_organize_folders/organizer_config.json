@@ -1,0 +1,21 @@
+{
+  "_comment": "FileOrganizer config — edit folder names and extensions freely. Unknown extensions go to 'Others'.",
+
+  "Images": [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".heic", ".raw"],
+  "Documents": [
+    ".pdf",
+    ".docx",
+    ".txt",
+    ".xlsx",
+    ".pptx",
+    ".csv",
+    ".md",
+    ".rtf"
+  ],
+  "Videos": [".mp4", ".mov", ".avi", ".mkv", ".webm"],
+  "Audio": [".mp3", ".wav", ".flac", ".aac", ".ogg"],
+  "Archives": [".zip", ".rar", ".7z", ".tar.gz", ".gz"],
+  "Code": [".py", ".js", ".ts", ".html", ".css", ".json", ".sh", ".sql"],
+  "eBooks": [".epub", ".mobi", ".azw3"],
+  "Fonts": [".ttf", ".otf", ".woff", ".woff2"]
+}
