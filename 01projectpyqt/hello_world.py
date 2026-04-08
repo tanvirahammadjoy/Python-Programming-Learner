@@ -6,7 +6,7 @@ class MyWidget(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
 
-        self.hello = ["Hallo Welt", "Hei maailma", "Hola Mundo", "Привет мир"]
+        self.hello = ["Hallo Welt", "Hei maailma", "Hola Mundo", "Привет мир", "你好，世界", "こんにちは世界", "안녕하세요 세계", "Olá Mundo"]
 
         self.button = QtWidgets.QPushButton("Click me!")
         self.text = QtWidgets.QLabel("Hello World", alignment=QtCore.Qt.AlignCenter)
